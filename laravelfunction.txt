@@ -1,1 +1,1 @@
-Laravel function with class
+Laravel function with class and Objects
